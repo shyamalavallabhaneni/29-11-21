@@ -11,3 +11,5 @@
 ***bold and italic fontstyles***
 
 [Google](https://www.google.com/)
+
+![tajmahal](https://images.unsplash.com/photo-1587135941948-670b381f08ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&w=1000&q=80)
