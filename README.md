@@ -21,11 +21,23 @@
 1. Flowers
     1. Rose
     2. sunflower
-    3. loutus
+    3. lotus
 
 sno|Name
--------|-------
+-------|-------|
 1|Bhavya
 2|Shyamala
 3|Tassu
 4|Mona
+
+FANTASTIC_4
+>FANTASTIC_4
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
